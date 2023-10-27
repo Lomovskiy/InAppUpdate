@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "InAppUpdate"
-include(":app")
- 
+rootProject.name = 'InAppUpdate'
+include ':app'
+include ':library'
